@@ -1,0 +1,59 @@
+/*Especificidad: 001*/
+body {
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #2a71db;
+  }
+
+ /*Especificidad: 001*/
+h1 {    
+  text-transform: uppercase;
+  text-align: center;
+  
+  }
+
+/*Especificidad: 001*/
+h2 {   
+  text-transform: uppercase;   
+  text-align: center;
+  padding: 1em;
+  padding-top: 2em;
+  }
+
+/*Especificidad: 001*/
+section {     
+  text-align: center;
+  background-color: #c9ddfa;
+  padding-bottom: 1em;
+  }
+
+/*Especificidad: 001*/
+h3 {   
+  padding-top: 1em;
+  text-align: center;     
+  }
+
+/*Especificidad: 001*/
+main{
+  text-align: center;
+  color: #000000;
+}
+
+/*Especificidad: 001*/
+img{
+  text-align: center;
+}
+
+/*Especificidad: 001*/
+video{
+  width: 25em;
+  height: 18em;
+}
+
+/*Especificidad: 001*/
+p{
+  text-align: center;
+}
+
+
+
